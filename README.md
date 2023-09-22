@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Turrz.Turrz" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=35&center=true&color=blue&vCenter=true&width=500&height=70&duration=4000&lines=WELCOME!+👋;I'M+KRZYSZTOF+BLAZEWICZ!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=WELCOME!+👋;I'M+KRZYSZTOF+BLAZEWICZ!;" />
 </h1>
 
-<h3 align="center">Passionate Software Developer From :poland: !:</h3>
+<h3 align="center">Passionate Software Developer From :poland: :</h3>
 
 <br/>
 
