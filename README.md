@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Turrz.Turrz" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=WELCOME!+👋;I'M+Krzysztof+Blazewicz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&color=black&vCenter=true&width=500&height=70&duration=4000&lines=WELCOME!+👋;I'M+KRZYSZTOF+BLAZEWICZ!;" />
 </h1>
 
-<h3 align="center">Passionate Software Developer From Poland 🇵🇱</h3>
+<h3 align="center">Passionate Software Developer From Poland:poland:</h3>
 
 <br/>
 
@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **a portfolio website!**
  
- 🌱 I’m currently learning **JavaScript, CSS, HTML, C++.**
+ 🏆 I’m currently learning **JavaScript, CSS, HTML, C++.**
 
- 📫 This is where to reach me - **krisblazewicz.1997@gmail.com**
+ 📫 This is where you can reach out to me! - **krisblazewicz.1997@gmail.com**
   
  💬 Questions?
 
@@ -58,16 +58,13 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=Turrz&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-Turrz.vercel.app/api?username=Turrz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-Turrz.vercel.app/api/top-langs/?username=Turrz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
 
 <br/><br/>
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=THANKS+FOR+VISITING!+✌️;+SHOOT+ME+A+MESSAGE+ON+Linkedin!;I'M+ALWAYS+DOWN+TO+COLLAB+!">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=25&color=black&center=true&vCenter=true&width=500&height=70&duration=4000&lines=THANKS+FOR+VISITING!+✌️;+SHOOT+ME+A+MESSAGE+ON+Linkedin!;I'M+ALWAYS+DOWN+TO+COLLAB+!">
 </h3>
 
 <br/>
