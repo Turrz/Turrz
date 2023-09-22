@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Turrz.Turrz" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=35&center=true&color=magneta&vCenter=true&width=500&height=70&duration=4000&lines=WELCOME!+👋;I'M+KRZYSZTOF+BLAZEWICZ!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=35&center=true&color=LightGray&vCenter=true&width=500&height=70&duration=4000&lines=WELCOME!+👋;I'M+KRZYSZTOF+BLAZEWICZ!;" />
 </h1>
 
 <h3 align="center">Passionate Software Developer From Poland:poland:</h3>
@@ -64,7 +64,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=25&color=magneta&center=true&vCenter=true&width=500&height=70&duration=4000&lines=THANKS+FOR+VISITING!+✌️;+SHOOT+ME+A+MESSAGE+ON+Linkedin!;I'M+ALWAYS+DOWN+TO+COLLAB+!">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=25&color=LightGray&center=true&vCenter=true&width=500&height=70&duration=4000&lines=THANKS+FOR+VISITING!+✌️;+SHOOT+ME+A+MESSAGE+ON+(LINKEDIN)!;I'M+ALWAYS+DOWN+TO+COLLAB!">
 </h3>
 
 <br/>
