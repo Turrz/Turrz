@@ -24,7 +24,7 @@
   <a href="mailto:krisblazewicz.1997@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=blue" />
   </a>
-  <a href="www.linkedin.com/in/krzysztof-blazewicz-81181125a" target="_blank">
+  <a href="www.linkedin.com/in/krzysztof-blazewicz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/Turrz" target="_blank">
@@ -64,7 +64,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=25&color=blue&center=true&vCenter=true&width=500&height=70&duration=4000&lines=THANKS+FOR+VISITING!+✌️;+SHOOT+ME+A+MESSAGE+ON+(LINKEDIN)!;I'M+ALWAYS+DOWN+TO+COLLAB!">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=THANKS+FOR+VISITING!+✌️;+SHOOT+ME+A+MESSAGE+ON+(LINKEDIN)!;I'M+ALWAYS+DOWN+TO+COLLAB!">
 </h3>
 
 <br/>
