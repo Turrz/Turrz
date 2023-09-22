@@ -47,7 +47,8 @@
 <div align="center">
   <h2>🐍 Contributions 🐍</h2>
   <br>
-  <img alt="SKANE EATING MY CONTRIBUTIONS!" src="https://raw.githubusercontent.com/Turrz/Turrz/output/github-contribution-grid-snake.svg" />
+  <img alt="SKANE EATING MY CONTRIBUTIONS!"> 
+    //src="https://raw.githubusercontent.com/Turrz/Turrz/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
