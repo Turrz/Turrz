@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Turrz.Turrz" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+👋;I'm+Krzysztof+Blazewicz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=WELCOME!+👋;I'M+Krzysztof+Blazewicz!;" />
 </h1>
 
 <h3 align="center">Passionate Software Developer From Poland 🇵🇱</h3>
@@ -54,7 +54,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats! ⚡</h2>
+<h2 align="center">⚡ Statistics! ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=Turrz&theme=react&border_radius=10" alt="streak stats"/>
@@ -67,7 +67,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+For+Visiting!+✌️;+Shoot+Me+A+MessageOn+Linkedin!;I'm+Always+Down+To+Collab+!">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=THANKS+FOR+VISITING!+✌️;+SHOOT+ME+A+MESSAGE+ON+Linkedin!;I'M+ALWAYS+DOWN+TO+COLLAB+!">
 </h3>
 
 <br/>
