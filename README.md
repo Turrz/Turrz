@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a portfolio website!**
+ 🧬️ I’m currently working on **a portfolio website!**
  
- 🏆 I’m currently studying **JavaScript, CSS, HTML, C++.**
+ 💻 I’m currently studying **JavaScript, CSS, HTML, Python, React, C++.**
 
- 📫 This is where you can reach out to me! - **krisblazewicz.1997@gmail.com**
+ ⌨️ This is where you can reach out to me! - **krisblazewicz.1997@gmail.com**
   
  💬 Questions?
 
