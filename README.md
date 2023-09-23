@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a portfolio website!**
  
- 🏆 I’m currently learning **JavaScript, CSS, HTML, C++.**
+ 🏆 I’m currently studying **JavaScript, CSS, HTML, C++.**
 
  📫 This is where you can reach out to me! - **krisblazewicz.1997@gmail.com**
   
