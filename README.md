@@ -6,7 +6,7 @@
 
 <!-- <h3 align="center">Determined Software Developer. :poland: </h3> -->
 
-<b/>
+<br/>
 
 <div align="center">
  
