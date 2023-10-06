@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank" />
   </a>
   <a href="https://github.com/Turrz" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.google-chrome.io/badge/Portfolio-000000?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -45,7 +45,7 @@
 <hr/>
 
 <div align="center">
-  <h2> Contributions! </h2>
+  <h2>Contributions</h2>
     <br> 
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
@@ -53,7 +53,7 @@
 
 <hr/>
 
-<h2 align="center"> ⚡ Statistics! ⚡</h2>
+<h2 align="center"> ⚡ Statistics ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=Turrz&theme=transparent&border_radius=10" alt="streak stats"/>
