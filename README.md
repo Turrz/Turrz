@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🧬️ I’m currently working on **a portfolio website!**
+ 📡 I’m currently working on **a portfolio website!**
  
  💻 I’m currently studying **JavaScript, CSS, HTML, Python, React, C++.**
 
