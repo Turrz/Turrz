@@ -56,7 +56,7 @@
 <h2 align="center"> ⚡ Statistics ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=Turrz&theme=transparent&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://streak-stats.demolab.com/?user=Turrz&theme=github-dark-dimmed&border_radius=10" alt="streak stats"/>
 </div>
 
 <br/><br/>
