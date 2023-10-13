@@ -51,8 +51,6 @@
   <br/><br/><br/>
 </div> -->
 
-<hr/>
-
 <h2 align="center"> ⚡ Statistics ⚡</h2>
 <br>
 <div align=center>
