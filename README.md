@@ -55,7 +55,7 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=Turrz&theme=github-dark-dimmed&border_radius=10" alt="streak stats"/>
-</div> -->
+</div>
 
 <br/><br/>
 <hr/>
