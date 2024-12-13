@@ -51,15 +51,6 @@
   <br/><br/><br/>
 </div> -->
 
-<h2 align="center"> ⚡ Statistics ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=Turrz&theme=github-dark-dimmed&border_radius=10" alt="streak stats"/>
-</div>
-
-<br/><br/>
-<hr/>
-
 <!-- <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=THANKS+FOR+VISITING!+;+SHOOT+ME+A+MESSAGE+ON+(LINKEDIN)!;I'M+ALWAYS+DOWN+TO+COLLAB!">
 </h3>
